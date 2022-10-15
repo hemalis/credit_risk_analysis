@@ -86,7 +86,7 @@ _Average Precision_ is **0.99** and _Average Recall_ is **0.94**
 
 - ClusterCentroids Undersampling doesn't work well with the dataset although is has higher precision for high-risk loans compared to SMOTE technique but recall is on lowest side.
 
-- SMOTEEN provides smiliar results to SMOTE techniques with little higher balanced accuracy score. Average precision and recall are same as SMOTE.
+- SMOTEEN provides better recall for high-risk loans compared to all above models but average recall is still on the lower side. 
 
 - Balanced Random Forest Classifier algorithm works better then sampling techniques and it has higher average precision and recall compared to other techniques above. Recall for high-risk loan is still a concern for this model.
 
