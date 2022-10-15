@@ -50,9 +50,9 @@ _Balanced accuracy score:_ 0.6806030550435773
 
 _Precision_ is **0.01** for high-risk loans and **1.00** for low-risk loans
 
-_Recall_ is **0.62** for high-risk loans and **0.69** for low-risk loans
+_Recall_ is **0.80** for high-risk loans and **0.56** for low-risk loans
 
-_Average Precision_ is **0.99** and _Average Recall_ is **0.69**
+_Average Precision_ is **0.99** and _Average Recall_ is **0.56**
 
 ## 5. Balanced Random Forest Classifier
 
